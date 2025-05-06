@@ -28,33 +28,37 @@
 <div class="palette-grid">
   <div class="swatch">
     <div class="swatch-color" style="background:#2563EB;"></div>
-    <div class="swatch-meta">Prompty Blue<br><code>#2563EB<br>HSL 221°, 81%, 56%</code></div>
+    <div class="swatch-meta">Prompty Blue<br><code>#2563EB<br>HSL 221°, 81%, 56%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#334155;"></div>
-    <div class="swatch-meta">Slate Ink<br><code>#334155<br>HSL 210°, 26%, 26%</code></div>
+    <div class="swatch-meta">Slate Ink<br><code>#334155<br>HSL 210°, 26%, 26%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#F9FAFB; border:1px solid #E5E7EB;"></div>
-    <div class="swatch-meta">Cloud White<br><code>#F9FAFB<br>HSL 210°, 20%, 98%</code></div>
+    <div class="swatch-meta">Cloud White<br><code>#F9FAFB<br>HSL 210°, 20%, 98%</code></div>
   </div>
 </div>
 
-## 2 — Variant Accent Shades (Normal<br>Dark<br>Light)
+## 2 — Variant Accent Shades (Normal<br>Dark<br>Light<br>Lighter)
 
 <h2>McPromptFace</h2>
 <div class="palette-grid">
   <div class="swatch">
     <div class="swatch-color" style="background:#14B8A6;"></div>
-    <div class="swatch-meta">Teal Spark (Normal)<br><code>#14B8A6<br>HSL 173°, 80%, 39%</code></div>
+    <div class="swatch-meta">Teal Spark (Normal)<br><code>#14B8A6<br>HSL 173°, 80%, 39%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#08786B;"></div>
-    <div class="swatch-meta">Teal Spark Dark<br><code>#08786B<br>HSL 173°, 88%, 25%</code></div>
+    <div class="swatch-meta">Teal Spark Dark<br><code>#08786B<br>HSL 173°, 88%, 25%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#DBF0ED;"></div>
-    <div class="swatch-meta">Teal Spark Light<br><code>#DBF0ED<br>HSL 171°, 41%, 90%</code></div>
+    <div class="swatch-meta">Teal Spark Light<br><code>#DBF0ED<br>HSL 171°, 41%, 90%</code></div>
+  </div>
+  <div class="swatch">
+    <div class="swatch-color" style="background:#EFF8F7; border:1px solid #E5E7EB;"></div>
+    <div class="swatch-meta">Teal Spark Lighter<br><code>#EFF8F7<br>HSL 171°, 33%, 95%</code></div>
   </div>
 </div>
 
@@ -62,15 +66,19 @@
 <div class="palette-grid">
   <div class="swatch">
     <div class="swatch-color" style="background:#6366F1;"></div>
-    <div class="swatch-meta">Indigo Beam (Normal)<br><code>#6366F1<br>HSL 239°, 84%, 67%</code></div>
+    <div class="swatch-meta">Indigo Beam (Normal)<br><code>#6366F1<br>HSL 239°, 84%, 67%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#05077B;"></div>
-    <div class="swatch-meta">Indigo Beam Dark<br><code>#05077B<br>HSL 239°, 92%, 25%</code></div>
+    <div class="swatch-meta">Indigo Beam Dark<br><code>#05077B<br>HSL 239°, 92%, 25%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#DBDBF0;"></div>
-    <div class="swatch-meta">Indigo Beam Light<br><code>#DBDBF0<br>HSL 240°, 41%, 90%</code></div>
+    <div class="swatch-meta">Indigo Beam Light<br><code>#DBDBF0<br>HSL 240°, 41%, 90%</code></div>
+  </div>
+  <div class="swatch">
+    <div class="swatch-color" style="background:#F0F0FC; border:1px solid #E5E7EB;"></div>
+    <div class="swatch-meta">Indigo Beam Lighter<br><code>#F0F0FC<br>HSL 240°, 60%, 97%</code></div>
   </div>
 </div>
 
@@ -78,15 +86,19 @@
 <div class="palette-grid">
   <div class="swatch">
     <div class="swatch-color" style="background:#D946EF;"></div>
-    <div class="swatch-meta">Fuchsia Pulse (Normal)<br><code>#D946EF<br>HSL 289°, 80%, 60%</code></div>
+    <div class="swatch-meta">Fuchsia Pulse (Normal)<br><code>#D946EF<br>HSL 289°, 80%, 60%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#630878;"></div>
-    <div class="swatch-meta">Fuchsia Pulse Dark<br><code>#630878<br>HSL 289°, 88%, 25%</code></div>
+    <div class="swatch-meta">Fuchsia Pulse Dark<br><code>#630878<br>HSL 289°, 88%, 25%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#ECDBF0;"></div>
-    <div class="swatch-meta">Fuchsia Pulse Light<br><code>#ECDBF0<br>HSL 289°, 41%, 90%</code></div>
+    <div class="swatch-meta">Fuchsia Pulse Light<br><code>#ECDBF0<br>HSL 289°, 41%, 90%</code></div>
+  </div>
+  <div class="swatch">
+    <div class="swatch-color" style="background:#FAF0FB; border:1px solid #E5E7EB;"></div>
+    <div class="swatch-meta">Fuchsia Pulse Lighter<br><code>#FAF0FB<br>HSL 289°, 62%, 96%</code></div>
   </div>
 </div>
 
@@ -94,15 +106,19 @@
 <div class="palette-grid">
   <div class="swatch">
     <div class="swatch-color" style="background:#F59E0B;"></div>
-    <div class="swatch-meta">Amber Focus (Normal)<br><code>#F59E0B<br>HSL 42°, 94%, 50%</code></div>
+    <div class="swatch-meta">Amber Focus (Normal)<br><code>#F59E0B<br>HSL 42°, 94%, 50%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#805900;"></div>
-    <div class="swatch-meta">Amber Focus Dark<br><code>#805900<br>HSL 42°, 100%, 25%</code></div>
+    <div class="swatch-meta">Amber Focus Dark<br><code>#805900<br>HSL 42°, 100%, 25%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#F1EADA;"></div>
-    <div class="swatch-meta">Amber Focus Light<br><code>#F1EADA<br>HSL 42°, 45%, 90%</code></div>
+    <div class="swatch-meta">Amber Focus Light<br><code>#F1EADA<br>HSL 42°, 45%, 90%</code></div>
+  </div>
+  <div class="swatch">
+    <div class="swatch-color" style="background:#FDF6E9; border:1px solid #E5E7EB;"></div>
+    <div class="swatch-meta">Amber Focus Lighter<br><code>#FDF6E9<br>HSL 42°, 80%, 95%</code></div>
   </div>
 </div>
 
@@ -111,40 +127,41 @@
 <div class="palette-grid">
   <div class="swatch">
     <div class="swatch-color" style="background:#10B981;"></div>
-    <div class="swatch-meta">Emerald Verdict (Success)<br><code>#10B981<br>HSL 162°, 72%, 37%</code></div>
+    <div class="swatch-meta">Emerald Verdict (Success)<br><code>#10B981<br>HSL 162°, 72%, 37%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#F97316;"></div>
-    <div class="swatch-meta">Sunset Caution (Warning)<br><code>#F97316<br>HSL 25°, 94%, 53%</code></div>
+    <div class="swatch-meta">Sunset Caution (Warning)<br><code>#F97316<br>HSL 25°, 94%, 53%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#EF4444;"></div>
-    <div class="swatch-meta">Rose Alert (Danger)<br><code>#EF4444<br>HSL 0°, 84%, 58%</code></div>
+    <div class="swatch-meta">Rose Alert (Danger)<br><code>#EF4444<br>HSL 0°, 84%, 58%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#0EA5E9;"></div>
-    <div class="swatch-meta">Sky Hint (Info)<br><code>#0EA5E9<br>HSL 198°, 86%, 48%</code></div>
+    <div class="swatch-meta">Sky Hint (Info)<br><code>#0EA5E9<br>HSL 198°, 86%, 48%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#F3F4F6; border:1px solid #E5E7EB;"></div>
-    <div class="swatch-meta">Gray 100 (Neutral‑Light)<br><code>#F3F4F6<br>HSL 210°, 20%, 96%</code></div>
+    <div class="swatch-meta">Gray 100 (Neutral‑Light)<br><code>#F3F4F6<br>HSL 210°, 20%, 96%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#9CA3AF;"></div>
-    <div class="swatch-meta">Gray 400 (Neutral‑Mid)<br><code>#9CA3AF<br>HSL 218°, 11%, 65%</code></div>
+    <div class="swatch-meta">Gray 400 (Neutral‑Mid)<br><code>#9CA3AF<br>HSL 218°, 11%, 65%</code></div>
   </div>
   <div class="swatch">
     <div class="swatch-color" style="background:#374151;"></div>
-    <div class="swatch-meta">Gray 700 (Neutral‑Dark)<br><code>#374151<br>HSL 210°, 15%, 29%</code></div>
+    <div class="swatch-meta">Gray 700 (Neutral‑Dark)<br><code>#374151<br>HSL 210°, 15%, 29%</code></div>
   </div>
 </div>
 
 ## 4 — Accessibility Notes
 
-* **Contrast:** Prompty Blue on Cloud White and Slate Ink on Cloud White exceed WCAG AA for body text.
-* **Swatch Borders:** Very light tones (e.g., Cloud White, Gray 100, Light variants) include a subtle gray outline to remain visible.
-* **Guidelines:** When using accent colors for large backgrounds, overlay text in Cloud White or Slate Ink to maintain a 4.5 : 1 contrast ratio.
+* **Contrast:** Prompty Blue on Cloud White and Slate Ink on Cloud White exceed WCAG AA for body text.
+* **Swatch Borders:** Very light tones (e.g., Cloud White, Gray 100, Light variants) include a subtle gray outline to remain visible.
+* **Guidelines:** When using accent colors for large backgrounds, overlay text in Cloud White or Slate Ink to maintain a 4.5 : 1 contrast ratio.
+* **Character Backgrounds:** The "Lighter" variants are ideal for character background areas while maintaining brand identity.
 
 ---
 
-<small>© 2025 Prompty AGF  |  Generated <time datetime="2025-05
+<small>© 2025 Prompty AGF  |  Generated <time datetime="2025-05
